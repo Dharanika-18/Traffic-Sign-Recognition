@@ -26,7 +26,7 @@ This is a PyQt5 application for road sign recognition. It uses a trained model t
 Clone the repository:
 
    bash
-   git clone https://github.com/Dharanika-18/Traffic-Sign-Recognition-TSR-.git
+   git clone https://github.com/Dharanika-18/Traffic-Sign-Recognition.git
    
 ## Install the required dependencies:
    bash
